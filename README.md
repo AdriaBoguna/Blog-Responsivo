@@ -1,3 +1,7 @@
+<p align="center">
+  <img src=https://github.com/AdriaBoguna/Blog-Responsivo/blob/main/img/screenShot.png />
+</p>
+
 # Blog-Responsivo
 Este es un proyecto personal en el que he volcado todo mi esfuerzo y dedicación para crear un blog utilizando HTML y CSS, con un enfoque especial en animaciones, keyframes y transiciones.
 
