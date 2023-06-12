@@ -11,5 +11,5 @@ A través de la creación de este blog, he aprendido a combinar diseño y funcio
 
 Además de servir como un escaparate para mis habilidades actuales, este proyecto también establece la base para mis futuros proyectos.
 
-⚡ Puedes ver mi web en el siguiente link: [(https://github.com/AdriaBoguna/Blog-Responsivo/)](https://github.com/AdriaBoguna/Blog-Responsivo/)
+⚡ Puedes ver mi web en el siguiente link: [(https://adriaboguna.github.io/Blog-Responsivo/)](https://adriaboguna.github.io/Blog-Responsivo/)
 ---
